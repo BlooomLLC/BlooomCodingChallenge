@@ -14,7 +14,7 @@ The winners will be judged by project organization, timing, and code readability
 ## Helpful Hints
 When you clone this repo for the first time, in Terminal navigate to the head of this directory and type `pod install` to install the Firebase dependencies. If running this command causes an error, it's probably because you do not have CocoaPods installed on your Mac. To install this, follow the instructions on this website http://cocoapods.org/.<br /><br />
 
-You will need to create your own FREE Firebase account and download a **GoogleService-Info.plist** file to add into your project. You can delete your **GoogleService-Info.plist** file when your ready to upload your pull request.<br /><br />
+You will need to create your own FREE Firebase account and download a **GoogleService-Info.plist** file to add into your project. You can delete your **GoogleService-Info.plist** file or add it to the gitignore file when your ready to upload your pull request.<br /><br />
 
 **Here are some helpful links. You should not have to use any other Firebase tools outside of what we linked below. Use the iOS docs in Swift:**<br />
 General Firebase Website: https://firebase.google.com<br />
