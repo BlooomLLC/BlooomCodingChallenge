@@ -5,7 +5,7 @@ Welcome to Blooom Coding Challenge!
 ## Rules
 The rules for this contest are simple: create a simple iPhone app using Swift, Xcode, and Firebase that Signs Up and Signs In new users. Sign Up/Sign In methods that we prefer are email/password, phone, and Instagram (you can use Firebase Authentication for this). In addition, we require that **name**, **age**, and **school** are collected from users on Sign Up and stored using either Firebase Realtime Database or Cloud Firestore. 
 
-## Submittion
+## Submission
 Submit your code by creating a Pull Request to this project. We've provided some starter code to help you get started. You are not required to use the starter code nor are you required to follow the organizational pattern that we provided. 
 
 ## Winner and Prize
