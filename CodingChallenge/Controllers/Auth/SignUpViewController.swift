@@ -12,7 +12,7 @@ class SignUpViewController: UIViewController {
         super.viewDidLoad()
         
         /// Once the user is successfully logs in, call `self.dismiss(animated: true, completion: nil)` to return Home
-        /// Keep in mind that `Auth.auth().createUser(withEmail:, password:, completion:)` creates a new user and logs that user in
+        /// Call `UserEngine.createAccount(withEmail: emailTextField.text, password: passwordTextField.text)`
         
     }
 

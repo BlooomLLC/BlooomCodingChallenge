@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		18D63DB42587E02300E65DD9 /* Auth.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D63DB32587E02300E65DD9 /* Auth.storyboard */; };
 		18D63DB92587E34600E65DD9 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 18D63DB82587E34600E65DD9 /* GoogleService-Info.plist */; };
+		18D63DBC2587EDB600E65DD9 /* UserEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D63DBB2587EDB600E65DD9 /* UserEngine.swift */; };
 		18F16AD72587C24400F5F85E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F16AD62587C24400F5F85E /* AppDelegate.swift */; };
 		18F16AD92587C24400F5F85E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F16AD82587C24400F5F85E /* SceneDelegate.swift */; };
 		18F16ADB2587C24400F5F85E /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F16ADA2587C24400F5F85E /* HomeViewController.swift */; };
@@ -28,6 +29,7 @@
 		0D2BF67C724BA610B531E0DB /* Pods-CodingChallenge.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CodingChallenge.debug.xcconfig"; path = "Target Support Files/Pods-CodingChallenge/Pods-CodingChallenge.debug.xcconfig"; sourceTree = "<group>"; };
 		18D63DB32587E02300E65DD9 /* Auth.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Auth.storyboard; sourceTree = "<group>"; };
 		18D63DB82587E34600E65DD9 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		18D63DBB2587EDB600E65DD9 /* UserEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserEngine.swift; sourceTree = "<group>"; };
 		18F16AD32587C24400F5F85E /* CodingChallenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodingChallenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18F16AD62587C24400F5F85E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18F16AD82587C24400F5F85E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 			children = (
 				18F16AFD2587C73800F5F85E /* README.md */,
 				18F16B012587CCA800F5F85E /* CurrentUser.swift */,
+				18D63DBB2587EDB600E65DD9 /* UserEngine.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -291,6 +294,7 @@
 				18F16ADB2587C24400F5F85E /* HomeViewController.swift in Sources */,
 				18F16B252587D16C00F5F85E /* OpeningViewController.swift in Sources */,
 				18F16AF12587C31800F5F85E /* UserDetails.swift in Sources */,
+				18D63DBC2587EDB600E65DD9 /* UserEngine.swift in Sources */,
 				18F16B282587D18700F5F85E /* LoginViewController.swift in Sources */,
 				18F16B212587D15500F5F85E /* AuthNavigationController.swift in Sources */,
 				18F16B2B2587D19200F5F85E /* SignUpViewController.swift in Sources */,

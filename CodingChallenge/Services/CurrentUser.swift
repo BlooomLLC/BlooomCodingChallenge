@@ -29,4 +29,11 @@ class CurrentUser {
         } catch { /* Do nothing */ }
     }
     
+    /*
+     
+     Add any other functions here
+     - You are not required to use our skeleton code. This is just to help you get started.
+     
+     */
+    
 }

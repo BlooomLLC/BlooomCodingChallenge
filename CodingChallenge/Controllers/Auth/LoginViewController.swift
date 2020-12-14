@@ -12,7 +12,8 @@ class LoginViewController: UIViewController {
         super.viewDidLoad()
 
         /// Once the user is successfully logs in, call `self.dismiss(animated: true, completion: nil)` to return Home
-        /// User Firebase Auth for this page
+        /// Call `UserEngine.login(withEmail: emailTextField.text, password: passwordTextField.text)`
+        
     }
     
 
